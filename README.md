@@ -11,6 +11,7 @@ To run this project, you'll need the following dependencies:
 - TensorFlow
 - NumPy
 
+
 # Contents
 The repository includes the following files and directories:
 
