@@ -4,6 +4,7 @@ This repository contains code and resources for a project focused on predicting 
 # Project Overview
 The goal of this project is to develop a deep learning model capable of accurately classifying handwritten digits from 0 to 9. The project explores the MNIST dataset, a benchmark dataset widely used for digit recognition tasks. By training a neural network on this dataset, we aim to achieve high accuracy in identifying handwritten digits.
 
+
 # Requirements
 To run this project, you'll need the following dependencies:
 
